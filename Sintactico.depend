@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442901649 source:c:\users\rossmery\desktop\sintactico\lexico.cpp
+	"Lexico.h"
+
+1442903582 c:\users\rossmery\desktop\sintactico\lexico.h
+	<stdio.h>
+	<ctype.h>
+
+1385316878 source:c:\users\rossmery\desktop\sintactico\main.cpp
+	<iostream>
+

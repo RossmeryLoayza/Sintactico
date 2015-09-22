@@ -181,7 +181,11 @@ int lex()
                     addChar();
                     getChar();
                 }
+                tmp = 2;
             }
+
+            if (tmp == 2)
+                nextToken = UNKNOWN;
 
             if(nextToken != UNKNOWN)
             {
